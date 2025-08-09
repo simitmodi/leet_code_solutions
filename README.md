@@ -29,7 +29,7 @@
 
 ## 📊 Current Progress
 
-**Total Problems Solved:** 8  
+**Total Problems Solved:** 9  
 **Primary Language:** Java  
 **Focus Areas:** Arrays, Math, Strings, Algorithm Optimization  
 
@@ -40,6 +40,7 @@
 - **Problem 1:** Two Sum (Easy) ✅
 - **Problem 4:** Median of Two Sorted Arrays (Hard) ✅
 - **Problem 33:** Search in Sorted Array (Medium) ✅
+- **Problem 34:** Find First and last position of Element in sorted array (Medium) ✅
 
 ### Math
 - **Problem 7:** Reverse Integer (Medium) ✅
@@ -77,7 +78,7 @@
 **💻 GitHub:** [simitmodi](https://github.com/simitmodi)  
 **📸 Instagram:** [simit.io](https://instagram.com/simit.io)  
 **🧩 LeetCode:** [simitmodi](https://leetcode.com/u/simitmodi)  
-**📧 Email:** [simit.modi@gmail.com](mailto:simit.modi@gmail.com)  
+**📧 Email:** [simitbmodi@gmail.com](mailto:simit.modi@gmail.com)  
 
 ---
 
