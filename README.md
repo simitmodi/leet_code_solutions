@@ -29,7 +29,7 @@
 
 ## 📊 Current Progress
 
-**Total Problems Solved:** 11  
+**Total Problems Solved:** 12  
 **Primary Language:** Java  
 **Focus Areas:** Arrays, Math, Strings, Algorithm Optimization  
 
@@ -49,6 +49,7 @@
 - **Problem 9:** Palindrome Number (Easy) ✅
 - **Problem 13:** Roman to Integer (Easy) ✅
 - **Problem 29:** Divide Two Integers (Medium) ✅
+- **Problem 50:** Pow(x,n) (Medium) ✅
 
 ### Strings
 - **Problem 32:** Longest Valid Parentheses (Hard) ✅
