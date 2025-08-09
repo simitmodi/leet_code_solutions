@@ -29,7 +29,7 @@
 
 ## 📊 Current Progress
 
-**Total Problems Solved:** 9  
+**Total Problems Solved:** 10  
 **Primary Language:** Java  
 **Focus Areas:** Arrays, Math, Strings, Algorithm Optimization  
 
@@ -41,6 +41,7 @@
 - **Problem 4:** Median of Two Sorted Arrays (Hard) ✅
 - **Problem 33:** Search in Sorted Array (Medium) ✅
 - **Problem 34:** Find First and last position of Element in sorted array (Medium) ✅
+- **Problem 35:** Search Insert Position (Easy) ✅
 
 ### Math
 - **Problem 7:** Reverse Integer (Medium) ✅
