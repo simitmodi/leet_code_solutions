@@ -13,7 +13,7 @@
 **Simit Modi** | Computer Engineering Student @ GTU (2027)  
 🎯 **Career Goal:** Software Engineer at leading tech companies  
 📍 **Location:** Ahmedabad, Gujarat, India  
-💼 **Leadership:** Head of PR at ISTE GTU  
+💼 **Leadership:** Head of PR at ISTE SAL  
 🏎️ **Current Focus:** DSA Mastery & F1 Data Analytics with FastF1  
 
 > *"Building strong fundamentals in Data Structures & Algorithms"*
@@ -29,21 +29,17 @@
 
 ## 📊 Current Progress
 
-**Total Problems Solved:** 7  
+**Total Problems Solved:** 8  
 **Primary Language:** Java  
 **Focus Areas:** Arrays, Math, Strings, Algorithm Optimization  
 
-| Difficulty | Solved | Progress |
-|------------|--------|----------|
-| 🟢 Easy | 4 | 57.1% |
-| 🟡 Medium | 2 | 28.6% |
-| 🔴 Hard | 1 | 14.3% |
 
 ## 💡 Problems Solved
 
 ### Arrays
 - **Problem 1:** Two Sum (Easy) ✅
 - **Problem 4:** Median of Two Sorted Arrays (Hard) ✅
+- **Problem 33:** Search in Sorted Array (Medium) ✅
 
 ### Math
 - **Problem 7:** Reverse Integer (Medium) ✅
