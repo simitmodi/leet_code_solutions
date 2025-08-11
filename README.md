@@ -29,7 +29,7 @@
 
 ## 📊 Current Progress
 
-**Total Problems Solved:** 14  
+**Total Problems Solved:** 15  
 **Primary Language:** Java  
 **Focus Areas:** Arrays, Math, Strings, Algorithm Optimization  
 
@@ -55,6 +55,7 @@
 
 ### Strings
 - **Problem 32:** Longest Valid Parentheses (Hard) ✅
+- **Problem 67:** Add Binary (Easy) ✅
 
 ## 🎯 Key Features
 
