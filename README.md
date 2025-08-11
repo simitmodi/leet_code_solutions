@@ -29,7 +29,7 @@
 
 ## 📊 Current Progress
 
-**Total Problems Solved:** 13  
+**Total Problems Solved:** 14  
 **Primary Language:** Java  
 **Focus Areas:** Arrays, Math, Strings, Algorithm Optimization  
 
@@ -43,6 +43,7 @@
 - **Problem 34:** Find First and last position of Element in sorted array (Medium) ✅
 - **Problem 35:** Search Insert Position (Easy) ✅
 - **Problem 41:** First Missing Positive (Hard) ✅
+- **Problem 66:** Plus One(Easy) ✅
 
 ### Math
 - **Problem 7:** Reverse Integer (Medium) ✅
