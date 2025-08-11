@@ -29,7 +29,7 @@
 
 ## 📊 Current Progress
 
-**Total Problems Solved:** 17\
+**Total Problems Solved:** 18\
 **Primary Language:** Java  
 **Focus Areas:** Arrays, Math, Strings, Algorithm Optimization  
 
@@ -45,6 +45,7 @@
 - **Problem 41:** First Missing Positive (Hard) ✅
 - **Problem 66:** Plus One (Easy) ✅
 - **Problem 74:** Search 2D Matrix (Medium) ✅
+- **Problem 75:** Sort Colors (Medium) ✅
 
 ### Math
 - **Problem 7:** Reverse Integer (Medium) ✅
