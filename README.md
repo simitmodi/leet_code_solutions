@@ -29,7 +29,7 @@
 
 ## 📊 Current Progress
 
-**Total Problems Solved:** 23\
+**Total Problems Solved:** 24\
 **Primary Language:** Java  
 **Focus Areas:** Arrays, Math, Strings, Algorithm Optimization  
 
@@ -48,6 +48,7 @@
 - **Problem 75:** Sort Colors (Medium) ✅
 - **Problem 81:** Search in Rotated Sorted Array II (Medium) ✅
 - **Problem 84:** Largest Rectangle in Histogram (Hard) ✅
+- **Problem 88:** merge Sorted Array (Easy) ✅
 
 ### Math
 - **Problem 7:** Reverse Integer (Medium) ✅
